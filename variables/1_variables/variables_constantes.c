@@ -14,9 +14,9 @@ int main()
 
 	//constante=10;
 	variable=0;
-	#define num 300
+	//#define num 300
 		
-	//printf("Nuevo valor de constante:%d\n", constante);
+	printf("Nuevo valor de constante:%d\n", constante);
 	printf("Nuevo valor de variable:%d\n", variable);
 	printf("Nuevo valor de macro:%d\n", num);
 	return 0;
