@@ -6,7 +6,7 @@ float a,b,c,d, e;
 int a1, b1;
 int main()
 {
-	system("clear");
+	//system("clear");
 	printf("Dame el primer numero\n");
 	scanf("%f",&a);
 	a1 = a;
