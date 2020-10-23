@@ -11,6 +11,8 @@ int main()
  	y=7;
  	//operador ternario
  	z=(x < y) ? x:y; // Carga menor entre x e y en z
+ 	
+ 	//si X es
  	printf("El menor entre %d y %d es %d\n",x,y,z); 
  	// Muestra resultado de la expresión condicional
  	t=(x % 2 == 0) ? 'p':'i'; // Carga 'p' en t, sino carga 'i'
